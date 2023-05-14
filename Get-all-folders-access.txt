@@ -1,0 +1,5 @@
+Error:
+Failed to save 'index.js': Insufficient permissions. Select 'Retry as Sudo' to retry as superuser.
+
+Solution:
+sudo chmod -R 777 *
